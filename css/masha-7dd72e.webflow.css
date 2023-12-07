@@ -54,6 +54,7 @@ h5 {
   margin-bottom: 10px;
   font-size: 1.5rem;
   line-height: 1.2;
+/*  font-style: italic;*/
 }
 
 h6 {
@@ -798,6 +799,10 @@ strong {
 
 .list-item-2 {
   padding-bottom: 20px;
+}
+
+.mobile-pad {
+  padding: 20px;
 }
 
 .paragraph, .paragraph.desktophidden, .paragraph.hidden {
